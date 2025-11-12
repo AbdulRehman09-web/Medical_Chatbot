@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+myenv/
 
 # Spyder project settings
 .spyderproject
@@ -158,6 +159,10 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+data.zip
+Medical Chatbot Proposal.docx
+Medical Chatbot Proposal.pdf
+practice.py
 
 # Pyre type checker
 .pyre/
