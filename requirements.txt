@@ -9,3 +9,4 @@ huggingface-hub==0.35.3
 python-dotenv==1.0.1
 streamlit==1.39.0
 pyperclip==1.8.2
+sentence-transformers == 5.1.1
