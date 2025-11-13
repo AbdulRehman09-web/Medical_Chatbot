@@ -1,11 +1,11 @@
 import streamlit as st
-from langchain_community.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
+from langchain_community.vectorstores import FAISS
 import pyperclip
 
 # -------------------- Load Environment Variables --------------------
